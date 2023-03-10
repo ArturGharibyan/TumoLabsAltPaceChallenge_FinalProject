@@ -1,0 +1,245 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "cheesecake-with-strawberry",
+      "price": 5,
+      "url": "cheesecake-with-strawberry.jpg"
+    },
+    {
+      "id": 2,
+      "name": "chocolate-cake-with-sprinkles",
+      "price": 6,
+      "url": "chocolate-cake-with-chocolate-sprinkles.jpg"
+    },
+    {
+      "id": 3,
+      "name": "chocolate-candy-bowls",
+      "price": 1,
+      "url": "chocolate-candy-bowls.jpg"
+    },
+    {
+      "id": 4,
+      "name": "closeupshot-delicious-cupcake",
+      "price": 2.5,
+      "url": "closeupshot-delicious-cupcake.jpg"
+    },
+    {
+      "id": 5,
+      "name": "closeup-shot-delicious-cupcake",
+      "price": 3.6,
+      "url": "closeup-shot-delicious-cupcake.jpg"
+    },
+    {
+      "id": 6,
+      "name": "coconut-candies-covered",
+      "price": 1.99,
+      "url": "coconut-candies-covered.jpg"
+    },
+    {
+      "id": 7,
+      "name": "colorful-macarons-cookies",
+      "price": 2.99,
+      "url": "colorful-macarons-cookies.jpg"
+    },
+    {
+      "id": 8,
+      "name": "concept-sweets-with-chocolate-candies",
+      "price": 2.99,
+      "url": "concept-sweets-with-chocolate-candies.jpg"
+    },
+    {
+      "id": 9,
+      "name": "concept-tasty-sweets-coconut-candies",
+      "price": 2.99,
+      "url": "concept-tasty-sweets-coconut-candies.jpg"
+    },
+    {
+      "id": 10,
+      "name": "fresh-croissant-with-chocolate",
+      "price": 2.99,
+      "url": "fresh-croissant-with-chocolate.jpg"
+    },
+    {
+      "id": 11,
+      "name": "front-view-tasty-cupcake",
+      "price": 2.99,
+      "url": "front-view-tasty-cupcake-with-strawberry.jpg"
+    },
+    {
+      "id": 12,
+      "name": "piece-sweet-carrot-cake-with-delicious-cream",
+      "price": 2.99,
+      "url": "piece-sweet-carrot-cake-with-delicious-cream_356194-2267.avif"
+    },
+    {
+      "id": 13,
+      "name": "valentines-day-heart-chocolate",
+      "price": 2.99,
+      "url": "valentines-day-heart-chocolate.jpg"
+    },
+    {
+      "id": 14,
+      "name": "summer-berry-flatlay",
+      "price": 2.99,
+      "url": "summer-berry-flatlay.jpg"
+    },
+    {
+      "id": 15,
+      "name": "tart-with-strawberries-whipped",
+      "price": 2.99,
+      "url": "tart-with-strawberries-whipped.jpg"
+    },
+    {
+      "id": 16,
+      "name": "cocoa-crepe-cake-with-strawberries",
+      "price": 2.99,
+      "url": "cocoa-crepe-cake-with-strawberries_114579-17018.jpg"
+    },
+    {
+      "id": 17,
+      "name": "chocolate-cakes-black-board",
+      "price": 2.99,
+      "url": "chocolate-cakes-black-board_105495-449.avif"
+    },
+    {
+      "id": 18,
+      "name": "chocolate-cake-with-raspberries",
+      "price": 2.99,
+      "url": "chocolate-cake-with-raspberries-wooden-board_114579-17160.avif"
+    },
+    {
+      "id": 19,
+      "name": "chocolate-cake-served-with-berries",
+      "price": 2.99,
+      "url": "chocolate-cake-served-with-berries-blue-background_114579-15308.avif"
+    },
+    {
+      "id": 20,
+      "name": "cake-made-red-cakes-with-berry-flavor-buttercream-several",
+      "price": 2.99,
+      "url": "cake-made-red-cakes-with-berry-flavor-buttercream-several-layers-delicious-sweet-cake_252085-21332.avif"
+    },
+    {
+      "id": 21,
+      "name": "black-crackers-with-salmon-berries",
+      "price": 2.99,
+      "url": "black-crackers-with-salmon-berries_72772-3906.jpg"
+    },
+    {
+      "id": 22,
+      "name": "square-slices-cherry-crumble",
+      "price": 2.99,
+      "url": "square-slices-cherry-crumble-lie-stack-black-board_116441-23552.avif"
+    },
+    {
+      "id": 23,
+      "name": "square-slice-chocolate-cheesecake-wooden-board",
+      "price": 2.99,
+      "url": "square-slice-chocolate-cheesecake-wooden-board_114579-16553.avif"
+    },
+    {
+      "id": 24,
+      "name": "slice-cake-with-cocoa-strawberries",
+      "price": 2.99,
+      "url": "slice-cake-with-cocoa-strawberries_114579-13810.avif"
+    },
+    {
+      "id": 25,
+      "name": "russian-kitchen-herring-russian-new-year-dishes-traditional",
+      "price": 2.99,
+      "url": "russian-kitchen-herring-russian-new-year-dishes-traditional_74197-704.avif"
+    },
+    {
+      "id": 26,
+      "name": "red-cake-wooden-board",
+      "price": 2.99,
+      "url": "red-cake-wooden-board_114579-17124.jpg"
+    },
+    {
+      "id": 27,
+      "name": "piece-cake-chocolate-biscuit-with-cream-cheese",
+      "price": 2.99,
+      "url": "piece-cake-chocolate-biscuit-with-cream-cheese-filling-dark-blue-background-berries-pink-cr_373520-2090.avif"
+    },
+    {
+      "id": 28,
+      "name": "front-view-yummy-round-pancakes-with-cream-red-strawberries-iced-cocktail",
+      "price": 2.99,
+      "url": "front-view-yummy-round-pancakes-with-cream-red-strawberries-iced-cocktail-light-desk-cake_140725-22125.avif"
+    },
+    {
+      "id": 29,
+      "name": "front-view-yummy-round-pancakes-with-cream-red-strawberries",
+      "price": 2.99,
+      "url": "front-view-yummy-round-pancakes-with-cream-red-strawberries-light-desk-cake_140725-22133.avif"
+    },
+    {
+      "id": 30,
+      "name": "delicious-raw-apricot-cheesecake-with-crumble_132278-2641",
+      "price": 2.99,
+      "url": "delicious-raw-apricot-cheesecake-with-crumble_132278-2641.avif"
+    },
+    {
+      "id": 31,
+      "name": "delicious-pancakes-with-fresh-berries-rustic-wooden-table",
+      "price": 2.99,
+      "url": "delicious-pancakes-with-fresh-berries-rustic-wooden-table_273003-1188.avif"
+    },
+    {
+      "id": 32,
+      "name": "portion-crumble-pie-with-cherries-wooden-board-decorated",
+      "price": 2.99,
+      "url": "portion-crumble-pie-with-cherries-wooden-board-decorated-with-green-mint-leaves_116441-23950.avif"
+    },
+    {
+      "id": 33,
+      "name": "slice-fruit-cake-wooden-platter",
+      "price": 2.99,
+      "url": "slice-fruit-cake-wooden-platter_114579-17030.avif"
+    },
+    {
+      "id": 34,
+      "name": "stack-baked-square-pieces-chocolate-brownie-cake",
+      "price": 2.99,
+      "url": "stack-baked-square-pieces-chocolate-brownie-cake-cutting-board_116441-6749.avif"
+    },
+    {
+      "id": 35,
+      "name": "tiramisu-cake-decorated-with-dried-flowers",
+      "price": 2.99,
+      "url": "tiramisu-cake-decorated-with-dried-flowers-fruits-round-wooden-board_114579-17250.avif"
+    },
+    {
+      "id": 36,
+      "name": "assorted-desserts-with-chocolate",
+      "price": 1.5,
+      "url": "assorted-desserts-with-chocolate.jpg"
+    },
+    {
+      "id": 37,
+      "name": "assortment-pieces-cake",
+      "price": 2,
+      "url": "assortment-pieces-cake.jpg"
+    },
+    {
+      "id": 38,
+      "name": "bowl-pancakes-with-raspberries",
+      "price": 5,
+      "url": "bowl-pancakes-with-raspberries-around-black-backgound_173032-1764.avif"
+    },
+    {
+      "id": 39,
+      "name": "white-cake-poured-with-chocolate",
+      "price": 5,
+      "url": "white-cake-poured-with-chocolate.jpg"
+    },
+    {
+      "id": 40,
+      "name": "front-view-delicious-cake",
+      "price": 5,
+      "url": "front-view-delicious-cake-concept_23-2148769309.avif"
+    }
+  ],
+  "postfoods": []
+}

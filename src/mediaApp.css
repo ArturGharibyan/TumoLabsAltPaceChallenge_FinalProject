@@ -1,0 +1,159 @@
+@media screen and (max-width:623px) {
+    .homeChild3>h1 {
+        font-size: 60px;
+    }
+}
+
+
+@media screen and (max-width:519px) {
+    .homeChild2 {
+        height: 900px;
+    }
+}
+
+
+@media screen and (max-width:519px) {
+
+    .svgbar {
+        top: 800px;
+    }
+}
+
+@media screen and (max-width:519px) {
+    .homeChild3>h1 {
+        font-size: 40px;
+    
+    }
+}
+
+@media screen and (max-width:379px) {
+    .svgbar {
+        top: 900px;
+    }
+
+    .homeChild2 {
+        height: 1000px;
+    }
+
+    .Yummies {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width:435px){
+.searchInput{
+width: 300px;
+}
+}
+
+@media screen and (max-width:442px){
+    .buyimgDiv{
+        width:300px;
+        height:200px;
+      }
+      
+      .buyPhotos{
+        width:300px;
+        height:200px;
+        border-radius:20px;
+        object-fit:cover
+      }
+      
+}
+
+
+@media screen and (max-width:495px){
+
+    .signinchild {
+        display: flex;
+        width: 380px;
+        height: 560px;
+        border: 2px solid rgb(165, 183, 243);
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+        border-radius: 20px;
+        background-color: rgba(39, 43, 55, 0.801);
+        font-size: 20px;
+        box-shadow: 0 20px 20px rgba(0, 0, 0, 0.781);
+      }
+      .signupChild {
+        display: flex;
+        width: 380px;
+        height: 450px;
+        border: 2px solid rgb(165, 183, 243);
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+        border-radius: 20px;
+        background-color: rgba(39, 43, 55, 0.801);
+        font-size: 20px;
+        box-shadow: 0 20px 20px rgba(0, 0, 0, 0.781);
+      }
+
+      .signup {
+        height: 690px;
+        background-position: center center;
+
+     }
+      
+}
+
+
+@media screen and (max-width:375px){
+
+    .signinchild {
+        display: flex;
+        width: 300px;
+        height: 560px;
+        border: 2px solid rgb(165, 183, 243);
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+        border-radius: 10px;
+        background-color: rgba(39, 43, 55, 0.801);
+        font-size: 20px;
+        box-shadow: 0 20px 20px rgba(0, 0, 0, 0.781);
+      }
+      .inputs>input {
+        width: 280px;
+        height: 50px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 2px solid rgb(134, 161, 247);
+        background-color: rgb(190, 219, 245);
+      
+      }
+      .signupinputs>input {
+        width: 280px;
+        height: 50px;
+        margin: 20px;
+        border-radius: 10px;
+        border: 2px solid rgb(134, 161, 247);
+        background-color: rgb(190, 219, 245);
+      
+      
+      }
+
+      .form-labels {
+        display: none;
+      }
+      .signupChild {
+        display: flex;
+        width: 300px;
+        height: 450px;
+        border: 2px solid rgb(165, 183, 243);
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+        border-radius: 20px;
+        background-color: rgba(39, 43, 55, 0.801);
+        font-size: 20px;
+        box-shadow: 0 20px 20px rgba(0, 0, 0, 0.781);
+      }
+      
+}
