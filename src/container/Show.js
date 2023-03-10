@@ -17,6 +17,7 @@ const Show = () => {
             .then((response) => setInfo(response))
     }, [])
 
+    
 
     const remove = (id) => {
         setInfo(info.filter((e) => e.id !== id))

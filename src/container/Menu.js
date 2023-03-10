@@ -9,7 +9,6 @@ const Menu = () => {
   const info = useSelector(res => res.reducer)
 
 
-
   return (
     <div>
       <div style={{

@@ -3,11 +3,11 @@
 const Home = () => {
 
 
+
     return (
         <div className="Home">
             <div>
                 <div>
-
                     <div className="homeChild">
                         <div className="SvgDiv">
                             <img style={{

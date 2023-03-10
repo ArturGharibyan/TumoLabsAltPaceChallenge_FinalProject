@@ -31,7 +31,6 @@ export default function Shop() {
     }
 
 
-
     info = info.filter(e => e.name.toLowerCase().includes(filter.toString().toLowerCase()) || e.name.toLowerCase().includes(filter.toString().toLowerCase()))
 
 

@@ -54,6 +54,8 @@ const SignIn = () => {
                 break;
         }
     }
+
+
     const namevalide = (e) => {
         setUser({ ...user, name: e.target.value })
         if (e.target.value.length < 3) {
@@ -62,6 +64,8 @@ const SignIn = () => {
             setNameerror("")
         }
     }
+    
+
     const surnamenamevalide = (e) => {
         setUser({ ...user, surname: e.target.value })
         if (e.target.value.length < 3) {

@@ -15,6 +15,7 @@ const SignUp = () => {
     const [valid, setValid] = useState(false)
 
 
+
     useEffect(() => {
 
         if (emailerror || passworderror) {
@@ -28,6 +29,7 @@ const SignUp = () => {
 
 
     }, [passworderror, emailerror, config.email, config.password])
+
 
 
     const blurhandler = (e) => {
@@ -51,6 +53,8 @@ const SignUp = () => {
             setEmailerror("")
         }
     }
+
+    
     const passwordvalide = (e) => {
         setConfig({ ...config, password: e.target.value })
         const caseRegex = /(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?=.*\W)/

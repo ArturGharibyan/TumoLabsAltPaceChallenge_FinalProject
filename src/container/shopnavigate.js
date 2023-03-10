@@ -4,6 +4,7 @@ import { Link } from "react-router-dom"
 const Shopnavigate = () => {
     const params = useParams()
 
+    
     return (
         <ul className="shopping_cart">
             <li>
