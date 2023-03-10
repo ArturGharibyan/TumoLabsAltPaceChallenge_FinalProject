@@ -1,3 +1,5 @@
+
+
 const Button = ({ foods, delet }) => {
     return (
         <div className="option2">

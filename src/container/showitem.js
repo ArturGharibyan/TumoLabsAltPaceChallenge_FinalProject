@@ -3,7 +3,6 @@ import Button from "./Button"
 
 const Showitem = ({ foods, delet }) => {
 
-    
 
     return (
         <div>

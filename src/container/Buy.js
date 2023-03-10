@@ -20,8 +20,6 @@ const Buy = () => {
 
 
 
-
-
     useEffect(() => {
         fetch("http://localhost:5000/foods")
             .then((respose) => respose.json())
